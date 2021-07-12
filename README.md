@@ -16,6 +16,6 @@ Neke slike
 ---
 [slika 1](/Screenshot_4.png)
 
-[slika 2](/Screenshot_1.png)
+[slika 2](/Screenshot_3.png)
 
 [slika 3](/Screenshot_2.png)
