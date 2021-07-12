@@ -14,8 +14,8 @@ Cyotek windows forms
 
 Neke slike
 ---
-[shema](/Screenshot_1.png)
+[slika 1](/Screenshot_4.png)
 
-[PCB 1](Screenshot_2.png)
+[slika 2](/Screenshot_1.png)
 
-[PCB 2](./Screenshot_3.png)
+[slika 3](/Screenshot_2.png)
