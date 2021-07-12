@@ -42,3 +42,5 @@ C:\Users\HOTO\source\repos\PcLEDController\Controller\bin\Debug\libfftw3-3-x86.d
 C:\Users\HOTO\source\repos\PcLEDController\Controller\bin\Debug\FFTW.NET.dll
 C:\Users\HOTO\source\repos\PcLEDController\Controller\bin\Debug\System.Diagnostics.DiagnosticSource.dll
 C:\Users\HOTO\source\repos\PcLEDController\Controller\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HOTO\Desktop\github-kraken\Led controller (Magic Home)\Controller\obj\Debug\Controller.exe
+C:\Users\HOTO\Desktop\github-kraken\Led controller (Magic Home)\Controller\obj\Debug\Controller.pdb
